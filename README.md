@@ -1,4 +1,4 @@
-# Good to see you here! 👋
+# 👋 Hey there, fellow coders and curious minds! 🚀
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/cokenhe)
 [![Linkedin Badge](https://img.shields.io/badge/-kenho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-ho-a649a9184/)](https://www.linkedin.com/in/ken-ho-a649a9184/) [![Gmail Badge](https://img.shields.io/badge/-cokenhe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cokenhe@gmail.com)](mailto:cokenhe@gmail.com)
@@ -6,13 +6,19 @@
 
 ---
 
-### I'm **Ken Ho👨‍💻**, a Mobile Application Developer.
+### 👨‍💻 This is Ken
 
----
+I'm the tech sorcerer who weaves spells with Swift, Kotlin, and JavaScript (Angular) to conjure up captivating mobile experiences. 📱✨ From turbocharging e-commerce to bringing automation magic 🧙‍♂️ to testing, I've journeyed through global startups and collaborated across lands 🌍 to perfect the art of app creation.
+
+But wait, there's more! 🎉 My secret potion involves crafting bespoke event apps 🎈📅 for mighty corporations, ensuring events run smoother than a unicorn's glide. With real-time updates ⚡ and interactive charm, I'm your go-to wizard for all things mobile.
+
+Seeking new scrolls 📚 to inscribe my code on and new allies to collaborate with. Let's brew innovation together! ☕ Are you ready to code-waltz into the future? 🚶‍♂️💃
 
 ## 💡 Projects with My Work
 
 **[Boutir](https://apps.apple.com/hk/app/boutir-online-store-builder/id917526274?l=en)**, a one-stop video-centric online business platform, on which merchants can handle shop opening, daily operation, video shooting and even product-selling livestreams.
+
+## 👨‍🔬 Stacks
 
 **Currently working with:**
 
