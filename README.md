@@ -1,7 +1,7 @@
 # 👋 Hey there, fellow coders and curious minds! 🚀
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/cokenhe)
-[![Linkedin Badge](https://img.shields.io/badge/-kenho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-ho-a649a9184/)](https://www.linkedin.com/in/ken-ho-a649a9184/) [![Gmail Badge](https://img.shields.io/badge/-cokenhe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cokenhe@gmail.com)](mailto:cokenhe@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kenho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-ho-a649a9184/)](https://www.linkedin.com/in/cokenhe/) [![Gmail Badge](https://img.shields.io/badge/-cokenhe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cokenhe@gmail.com)](mailto:cokenhe@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/14374439369)
 
 ---
